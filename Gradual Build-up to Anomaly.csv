@@ -1,0 +1,7 @@
+Date,Temperature,Humidity,Condition
+2021-11-01,20,60,Clear
+2021-11-02,21,61,Clear
+2021-11-03,23,63,Clear
+2021-11-04,25,65,Cloudy
+2021-11-05,45,25,Unusual Spike
+2021-11-06,22,62,Clear
